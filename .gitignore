@@ -1,0 +1,17 @@
+# Database credentials — never commit these
+core/db_cred.php
+db_cred.php
+
+# Local environment files
+*.env
+.env*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.user
